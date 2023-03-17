@@ -1,0 +1,12 @@
+C:\curso_webapi\Catalogo\Catalogo.Domain\bin\Debug\net5.0\Catalogo.Domain.deps.json
+C:\curso_webapi\Catalogo\Catalogo.Domain\bin\Debug\net5.0\Catalogo.Domain.dll
+C:\curso_webapi\Catalogo\Catalogo.Domain\bin\Debug\net5.0\ref\Catalogo.Domain.dll
+C:\curso_webapi\Catalogo\Catalogo.Domain\bin\Debug\net5.0\Catalogo.Domain.pdb
+C:\curso_webapi\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.csprojAssemblyReference.cache
+C:\curso_webapi\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso_webapi\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.AssemblyInfoInputs.cache
+C:\curso_webapi\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.AssemblyInfo.cs
+C:\curso_webapi\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\curso_webapi\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.dll
+C:\curso_webapi\Catalogo\Catalogo.Domain\obj\Debug\net5.0\ref\Catalogo.Domain.dll
+C:\curso_webapi\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.pdb

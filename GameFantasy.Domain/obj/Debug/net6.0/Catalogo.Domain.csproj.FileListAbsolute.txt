@@ -1,0 +1,12 @@
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Domain\bin\Debug\net6.0\Catalogo.Domain.deps.json
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Domain\bin\Debug\net6.0\Catalogo.Domain.dll
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Domain\bin\Debug\net6.0\Catalogo.Domain.pdb
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Domain\obj\Debug\net6.0\Catalogo.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Domain\obj\Debug\net6.0\Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Domain\obj\Debug\net6.0\Catalogo.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Domain\obj\Debug\net6.0\Catalogo.Domain.AssemblyInfo.cs
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Domain\obj\Debug\net6.0\Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Domain\obj\Debug\net6.0\Catalogo.Domain.dll
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Domain\obj\Debug\net6.0\refint\Catalogo.Domain.dll
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Domain\obj\Debug\net6.0\Catalogo.Domain.pdb
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Domain\obj\Debug\net6.0\ref\Catalogo.Domain.dll

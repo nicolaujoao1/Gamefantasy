@@ -1,0 +1,17 @@
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\bin\Debug\net6.0\Catalogo.Infrastructure.deps.json
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\bin\Debug\net6.0\Catalogo.Infrastructure.runtimeconfig.json
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\bin\Debug\net6.0\Catalogo.Infrastructure.dll
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\bin\Debug\net6.0\Catalogo.Infrastructure.pdb
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\bin\Debug\net6.0\Catalogo.Domain.dll
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\bin\Debug\net6.0\Catalogo.Domain.pdb
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\obj\Debug\net6.0\Catalogo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\obj\Debug\net6.0\Catalogo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\obj\Debug\net6.0\Catalogo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\obj\Debug\net6.0\Catalogo.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\obj\Debug\net6.0\Catalogo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\obj\Debug\net6.0\Catalogo.Infrastructure.csproj.CopyComplete
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\obj\Debug\net6.0\Catalogo.Infrastructure.dll
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\obj\Debug\net6.0\refint\Catalogo.Infrastructure.dll
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\obj\Debug\net6.0\Catalogo.Infrastructure.pdb
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\obj\Debug\net6.0\Catalogo.Infrastructure.genruntimeconfig.cache
+C:\Users\HP\Music\Sydy\Catalogo_CleanArch\Catalogo\Catalogo.Infrastructure\obj\Debug\net6.0\ref\Catalogo.Infrastructure.dll
